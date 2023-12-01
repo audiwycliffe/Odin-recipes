@@ -1,2 +1,4 @@
 # Odin-recipes
-this is a recipe of pilau
+
+ The above project is about recipes
+ Its main purpose is to demonstrate the mastery of basic Html.
